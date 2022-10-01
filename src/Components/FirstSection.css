@@ -1,0 +1,31 @@
+.card1 {
+    width: 766px;
+    height: 800px;
+
+    flex-direction: column;
+    margin-top: 10%;
+
+}
+
+.title1 {
+    font-size: 62px;
+    font-weight: bold;
+}
+
+.text1 {
+    font-size: 16px;
+    color: #707070;
+}
+
+.border1 {
+    border-radius: 50px;
+    width: 240px;
+    height: 40px;
+    background-image: linear-gradient(#C898FF, #989DFF, #72A1FF);
+    padding: 30px 55px 20px 120px;
+    font-size: 24px;
+    color: white;
+    margin-top: 10%;
+
+
+}

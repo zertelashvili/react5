@@ -2,8 +2,9 @@
     width: 1920px;
     height: 200px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
+
 }
 
 .title {
@@ -46,4 +47,6 @@
 
 .lst1 {
     margin-top: 7%;
+    margin-left: 16px;
+
 }
